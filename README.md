@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shah-Haque
 - 👀 I’m interested in software development, currently i am looking into web apps using MVC.
 - 🌱 I’m currently learning .NET and C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me....My Email Address: FayyadhHaque@Hotmail.com
 
 <!---
